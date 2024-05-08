@@ -1,9 +1,4 @@
 hello world
-hello world 2
-bye world
-helloooogit
-hello
+hello world2
 hello 3
-hello 4
-h
 
